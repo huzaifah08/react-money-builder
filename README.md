@@ -14,9 +14,9 @@ Add the deployed Vercel or Netlify URL here after deployment.
 
 
 
-```markdown
+
 ![Money Builder application](https://github.com/huzaifah08/react-money-builder/blob/main/screenshots/money-builder-home.png)
-```
+
 
 ## Features
 
