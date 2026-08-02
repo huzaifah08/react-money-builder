@@ -4,7 +4,7 @@ Money Builder is a responsive savings-goal application built with React 18 and V
 
 ## Live Project
 
-Add the deployed Vercel or Netlify URL here after deployment.
+[View the live Money Builder application](https://react-money-builder.vercel.app/).
 
 ## GitHub Repository
 
