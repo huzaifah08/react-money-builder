@@ -12,10 +12,10 @@ Add the deployed Vercel or Netlify URL here after deployment.
 
 ## Screenshot
 
-Add a screenshot to `screenshots/money-builder-home.png`, then use:
+
 
 ```markdown
-![Money Builder application](./screenshots/money-builder-home.png)
+![Money Builder application](https://github.com/huzaifah08/react-money-builder/blob/main/screenshots/money-builder-home.png)
 ```
 
 ## Features
